@@ -26,7 +26,7 @@ Dashboard Features:
 Transformed raw sales data into meaningful insights, enhancing decision-making with a clear, interactive data representation
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/SimratSinghPanesar/SalesDashboard/blob/main/SuperStore%20Sales%20Dashboard.png" alt="Super Store Sales Dashboard" width="500">
-  <img src="https://github.com/SimratSinghPanesar/SalesDashboard/blob/main/SuperStore%20Sales%20Forecast.png" alt="Super Store Sales Forecast" width="500">
+  <img src="https://github.com/SimratSinghPanesar/SalesDashboard/blob/main/SuperStore%20Sales%20Dashboard.png" alt="Super Store Sales Dashboard" width="300">
+  <img src="https://github.com/SimratSinghPanesar/SalesDashboard/blob/main/SuperStore%20Sales%20Forecast.png" alt="Super Store Sales Forecast" width="300">
 </div>
 
